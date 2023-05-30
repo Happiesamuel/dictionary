@@ -1,7 +1,7 @@
 {
   "name": "diction",
   "version": "1.0.0",
-   "default": "index.html"
+ 
 
   "dependencies": {
     "abortcontroller-polyfill": "^1.7.5",
